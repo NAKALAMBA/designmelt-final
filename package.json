@@ -1,0 +1,19 @@
+{
+  "name": "designmelt-final",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.102.1",
+    "lenis": "^1.3.1",
+    "motion": "^12.23.12"
+  },
+  "devDependencies": {
+    "vite": "^7.1.7"
+  }
+}
